@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Tối nay mình qua đón bạn đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho mình đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/messages/t/100035646880767';
+                    window.location = 'https://www.facebook.com/messages/t/100006998402183';
                   }
             })
         }
